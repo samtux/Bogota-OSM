@@ -1,0 +1,6 @@
+{
+  "name": "Bogotá OSM con QGIS",
+  "tagline": "Bogotá OSM con Plantilla de GIS",
+  "body": "### Bogotá OSM con Plantilla de QGIS.\r\nEste proyecto muestra la generación de un mapa base a partir de los datos de Open Street Map, usando QGIS y el complemento de QMetatile.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
